@@ -1,1 +1,1 @@
-# ArcoLinux Kodi Desktop Settings
+# ArcoLinux Xfce Desktop Settings
